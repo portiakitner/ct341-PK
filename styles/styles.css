@@ -5,11 +5,10 @@ body {
     color: #003300;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'DM Serif Display', serif;
     color: #cc99ff;
 }
-
 
 /* Layout */
 
