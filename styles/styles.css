@@ -1,14 +1,15 @@
 /* Typography */
+body {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 14px;
+    color: #003300;
+}
+
 h1, h2 {
     font-family: 'DM Serif Display', serif;
     color: #cc99ff;
 }
 
-p, a {
-    font-family: 'Public Sans', sans-serif;
-    font-size: 14px;
-    color: #003300;
-}
 
 /* Layout */
 
